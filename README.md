@@ -10,6 +10,17 @@ A fully simulated embedded system built around the **ESP32-C6**, the **MPU6050**
 
 ---
 
+## Visual Demo
+
+Below are snapshots of the simulation running in Wokwi, showcasing the dual OLED interface:
+
+![Motion Visualizer Demo](demo.png)
+
+*Figure 1: Real-time 2D joystick-like motion visualization on OLED.*
+
+![Telemetry Display](demo1.png)
+
+*Figure 2: Sensor telemetry output shown on OLED .*
 ## Key Features
 
 - **Dual Display Interface**:
