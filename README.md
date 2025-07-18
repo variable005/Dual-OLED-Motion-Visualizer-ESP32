@@ -113,4 +113,4 @@ Below are snapshots of the simulation running in Wokwi, showcasing the dual OLED
 > Developed entirely in Wokwi — no physical hardware used.  
 > _Built with clarity, not complexity._  
 
-**Created by Hariom Sharnam
+Created by Hariom Sharnam
